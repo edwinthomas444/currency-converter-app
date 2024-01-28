@@ -96,7 +96,7 @@ fun ConvertorWindow(){
         horizontalAlignment = Alignment.CenterHorizontally
     ){
 
-        Text("Currency Convertor",
+        Text("Currency Converter",
             fontStyle = FontStyle.Italic,
             fontWeight = FontWeight.Bold,
             fontSize = 24.sp
